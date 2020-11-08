@@ -8,6 +8,8 @@ Short, sweet and accurate summaries and takeaways from books.
 
 ### Current Books:
 
+- The Righteous Mind by Jonathan Haidt
+
 - High Output Management by Andrew Grove
 
 - Building Secure & Reliable Systems (Best Practices for Designing, Implementing and Maintaining Systems) --- Google (SRE Book)
